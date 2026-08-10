@@ -3,7 +3,7 @@ schema_version: 1
 context:
   name: fswatch
   version: "1.22.0"
-  sha256: 988d9fca774eb9b2d1b3575ef56c5ce7fdcc718dbabaf727178651eac11bdabc
+  sha256: fa6e2becba0a629964b466b39c5997e72d8a6da40d82b88190aae7359065c758
 
 package:
   name: ${{ name|lower }}
